@@ -36,7 +36,7 @@ The simulator calculates and displays:
 
 3. Build and run the solution.
 
-4. In the application, select the scheduling algorithm you want to simulate and click **Run Scheduler**.
+4. In the application, select the scheduling algorithm you want to simulate and click **Run**.
 
 ---
 
